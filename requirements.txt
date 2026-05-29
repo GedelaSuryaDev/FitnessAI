@@ -1,0 +1,7 @@
+google-adk
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+jinja2

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+.vscode/
+.gemini/
+.cache/
+.local/
+.npm/
+.opencode/
+.rustup/
+.codeoss/
+.docker/
+.config/
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+README-cloudshell.txt
